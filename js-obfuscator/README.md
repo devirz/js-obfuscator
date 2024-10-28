@@ -1,5 +1,5 @@
 # js-obfuscator
-feat: Add CLI interface for JavaScript file obfuscation
+Tool: CLI interface for JavaScript file obfuscation
 
 - Implement interactive file input prompt with validation
 - Add progress spinner for better UX during operations
